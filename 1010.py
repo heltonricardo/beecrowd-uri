@@ -1,0 +1,7 @@
+e = str(input()).split()
+q1 = int(e[1])
+v1 = float(e[2])
+e = str(input()).split()
+q2 = int(e[1])
+v2 = float(e[2])
+print('VALOR A PAGAR: R$ {:.2f}'.format(q1 * v1 + q2 * v2))
