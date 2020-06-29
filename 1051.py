@@ -1,0 +1,5 @@
+SALARIO = float(input())
+if SALARIO <= 2000.00: print('Isento')
+elif (SALARIO <= 3000.00): print('R$ {:.2f}'.format((SALARIO - 2000.00) * 0.08))
+elif (SALARIO <= 4500.00): print('R$ {:.2f}'.format((SALARIO - 3000.00) * 0.18 + 80))
+else: print('R$ {:.2f}'.format((SALARIO - 4500.00) * 0.28 + 350))
