@@ -1,0 +1,6 @@
+n = int(input())
+e = str(input())
+z = e.count('0')
+u = e.count('1')
+if z > u: print('Y')
+else: print('N')
