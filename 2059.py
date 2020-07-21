@@ -1,0 +1,13 @@
+entrada = str(input()).split(' ')
+p = int(entrada[0])
+j1 = int(entrada[1])
+j2 = int(entrada[2])
+r = int(entrada[3])
+a = int(entrada[4])
+if r == 0 and a == 0:
+    if (j1 + j2) % 2 == 0 and p == 1: print('Jogador 1 ganha!')
+    elif (j1 + j2) % 2 != 0 and p == 0: print('Jogador 1 ganha!')
+    else: print('Jogador 2 ganha!')
+elif r == 1 and a == 0: print('Jogador 1 ganha!')
+elif r == 0 and a == 1: print('Jogador 1 ganha!')
+elif r == 1 and a == 1: print('Jogador 2 ganha!')
