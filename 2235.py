@@ -1,0 +1,7 @@
+e = str(input()).split()
+a = int(e[0])
+b = int(e[1])
+c = int(e[2])
+if a == b or a == c or b == c: print('S')
+elif a + b == c or a + c == b or b + c == a: print('S')
+else: print('N')
