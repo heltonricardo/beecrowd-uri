@@ -1,0 +1,7 @@
+e = str(input()).split()
+l = int(e[0])
+d = int(e[1])
+e = str(input()).split()
+p = int(e[0])
+k = int(e[1])
+print(int((l // d) * k + l * p))
