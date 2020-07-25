@@ -1,0 +1,8 @@
+a = str(input()).split()
+b = str(input()).split()
+i = len([x for x in a if x in b])
+if i == 3: print('terno')
+elif i == 4: print('quadra')
+elif i == 5: print('quina')
+elif i == 6: print('sena')
+else: print('azar')
