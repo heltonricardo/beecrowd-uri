@@ -1,5 +1,7 @@
 <h1 align="center">beecrowd / URI 🐝</h1>
 
+&nbsp;
+
 <p align="center">
   <img src="./assets/beecrowd.png" alt="Logo beecrowd" />
   <img src="./assets/uri.png" alt="Logo URI"/>
