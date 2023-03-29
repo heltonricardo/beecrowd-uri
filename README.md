@@ -1,12 +1,14 @@
-<center>
+<h1 align="center">beecrowd / URI 🐝</h1>
 
-<h1>beecrowd / URI 🐝</h1>
+<p align="center">
+  <img src="./assets/beecrowd.png" alt="Logo beecrowd" />
+  <img src="./assets/uri.png" alt="Logo URI"/>
+</p>
 
-Soluções de alguns exercícios da [beecrowd](https://www.beecrowd.com.br/) (antigo URI).
-
-![Logo beecrowd](./assets/beecrowd.png "Logo beecrowd") ![Logo URI](./assets/uri.png "Logo URI")
-
-</center>
+<p align="center">Soluções de alguns exercícios da plataforma 
+    <a href="https://www.beecrowd.com.br/">beecrowd</a>
+    (antigo URI)
+</p>
 
 &nbsp;
 
