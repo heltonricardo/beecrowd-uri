@@ -16,7 +16,7 @@
 
 ### Navegar por categoria
 
-1. [Iniciante](https://github.com/heltonricardo/beecrowd-uri/tree/master/1-Iniciante)
+1. [Iniciante](https://github.com/heltonricardo/beecrowd-uri/tree/master/1-iniciante)
 2. [Ad Hoc](https://github.com/heltonricardo/beecrowd-uri/tree/master/2-ad-hoc)
 3. [Strings](https://github.com/heltonricardo/beecrowd-uri/tree/master/3-strings)
 4. [Estruturas e Bibliotecas](https://github.com/heltonricardo/beecrowd-uri/tree/master/4-estruturas-e-bibliotecas)
