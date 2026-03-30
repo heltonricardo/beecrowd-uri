@@ -50,4 +50,4 @@
 > Atenciosamente,  
 > Helton.
 
-##### [Link para o meu perfil no beecrowd 🤠](https://www.beecrowd.com.br/judge/pt/profile/47266)
+##### [Link para o meu perfil no beecrowd 🤠](https://judge.beecrowd.com/pt/profile/47266)
